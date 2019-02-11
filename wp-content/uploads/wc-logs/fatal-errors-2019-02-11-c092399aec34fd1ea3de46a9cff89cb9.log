@@ -1,0 +1,135 @@
+2019-02-11T23:25:51+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:25:57+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:26:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:26:32+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:26:44+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:26:53+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:27:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:29:02+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:31:16+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:31:33+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:32:08+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:32:20+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:34:46+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:35:03+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
+2019-02-11T23:35:45+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php:284
+Stack trace:
+#0 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): db_shop_thumbnail_code->render(Array, '', 'et_pb_db_shop_t...', '', '', '')
+#1 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(319): ET_Builder_Element->_render(Array, '', 'et_pb_db_shop_t...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /Applications/MAMP/htdocs/GotEtMat/wp-includes/shortcodes.php(197): preg_replace_callback('/\\[(\\[?)(et_pb_...', 'do_shortcode_ta...', '[et_pb_db_shop_...')
+#4 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/main-structure-elements.php(3741): do_shortcode('[et_pb_db_shop_...')
+#5 /Applications/MAMP/htdocs/GotEtMat/wp-content/themes/Divi/includes/builder/class-et-builder-element.php(1864): ET_Builder_Column->render(A dans /Applications/MAMP/htdocs/GotEtMat/wp-content/plugins/divi-bodycommerce/includes/modules/CatProThunbnail/CatProThunbnail.php à la ligne 284
+
